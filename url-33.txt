@@ -1,1 +1,1 @@
-hello
+{ "urlSetting": "https://expo.sb21.net/setting?agentId="}
