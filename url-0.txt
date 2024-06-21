@@ -1,1 +1,1 @@
-{ "urlSetting": "https://expo.sb21.net/setting?agentId="}
+{ "urlSetting": "https://gali.sb21.net/setting?agentId="}
